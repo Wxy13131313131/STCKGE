@@ -1,4 +1,4 @@
-# IncDE-BoxE 详细使用指南
+# STCKGE 详细使用指南
 
 
 ## 安装依赖
@@ -34,4 +34,5 @@ python main.py --dataset ENTITY --gpu 0 \
     --embed_dim 200 --learning_rate 0.001 \
     --batch_size 1024 --epochs 100
 ```
+
 
